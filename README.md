@@ -37,11 +37,10 @@ Construo arquiteturas escaláveis, APIs de alta performance com tipagem estrita 
 
 ---
 
-### 📊 Métricas no GitHub
+### 📊 Linguagens Mais Utilizadas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmgouvea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmgouvea&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmgouvea&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
