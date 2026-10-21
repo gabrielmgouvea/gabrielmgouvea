@@ -1,26 +1,41 @@
 # Olá, sou Gabriel Morais Gouvêa 👋
 
-**Desenvolvedor de Software** com foco em backend em **Python (FastAPI)**, e integração prática de **Inteligência Artificial & Engenharia de Dados**.
+**Desenvolvedor de Software** com foco em backend em **Python (FastAPI & Django)**, interfaces modernas com **Next.js / TypeScript** e integração prática de **Inteligência Artificial, APIs de Terceiros & Geolocalização**.
 
-Construo arquiteturas escaláveis, APIs de alta performance com tipagem estrita e soluções de ponta a ponta que transformam telemetria bruta em tomada de decisão.
+Construo arquiteturas completas, APIs com tipagem estrita e aplicações ponta a ponta voltadas para resolver problemas reais com dados, telemetria e interfaces intuitivas.
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projetos em Destaque
 
 <table>
   <tr>
-    <td width="65%">
-      <h3>⚡ PulseTriage — Plataforma de Telemetria & IA Fisiológica</h3>
+    <td width="50%" valign="top">
+      <h3>⚡ PulseTriage</h3>
+      <p><b>Plataforma de Telemetria Esportiva & IA Fisiológica</b></p>
       <p>
-        Plataforma <i>full serverless</i> que ingere streams de telemetria segundo a segundo do <b>Strava API</b> e cruza marcadores mecânicos/cardíacos (EF, drift aeróbio, split) com laudos estruturados via <b>Google Gemini</b>.
+        Aplicação <i>full serverless</i> que ingere streams de telemetria segundo a segundo do <b>Strava API</b> e cruza marcadores mecânicos/cardíacos (EF, drift aeróbio, split) com laudos estruturados via <b>Google Gemini</b>.
       </p>
       <p>
         <b>Stack:</b> Next.js 16 • FastAPI • SQLite assíncrono • Vercel Serverless • Gemini API
       </p>
       <p>
-        🔗 <b><a href="https://ai-data-triage-agent.vercel.app">Testar aplicação em produção</a></b> | 
-        📂 <b><a href="https://github.com/gabrielmgouvea/ai-data-triage-agent">Ver código-fonte</a></b>
+        🔗 <a href="https://ai-data-triage-agent.vercel.app"><b>Acessar aplicação online</b></a><br>
+        📂 <a href="https://github.com/gabrielmgouvea/ai-data-triage-agent"><b>Ver código no GitHub</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏬 Minha Vitrine</h3>
+      <p><b>Guia Comercial Local & Vitrine Virtual</b></p>
+      <p>
+        Plataforma web para fomento ao comércio local com busca de estabelecimentos por proximidade geográfica, integração com <b>Google Maps API</b>, comparador interativo, avaliações e agenda de eventos.
+      </p>
+      <p>
+        <b>Stack:</b> Python • Django 4.2+ • SQLite • Google Maps API • PythonAnywhere
+      </p>
+      <p>
+        🔗 <a href="https://gabrielmgouvea.pythonanywhere.com"><b>Acessar aplicação online</b></a><br>
+        📂 <a href="https://github.com/gabrielmgouvea/minha-vitrine"><b>Ver código no GitHub</b></a>
       </p>
     </td>
   </tr>
@@ -30,10 +45,10 @@ Construo arquiteturas escaláveis, APIs de alta performance com tipagem estrita 
 
 ### 🛠️ Stacks & Tecnologias
 
-- **Backend & APIs:** Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy, Uvicorn, RESTful APIs, TDD.
-- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, Turbopack.
-- **Inteligência Artificial & Dados:** Google Gemini API, Engenharia de Prompts Estruturados, Telemetria & Time-series, Power BI.
-- **DevOps, Infra & Ferramentas:** Vercel (Serverless Deployments), Git/GitHub Actions, Linux, SQLite / aiosqlite.
+- **Backend & APIs:** Python 3.12+, FastAPI, Django, Pydantic v2, SQLAlchemy, RESTful APIs, TDD.
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, HTML5/CSS3 moderno, JavaScript.
+- **IA, Dados & APIs:** Google Gemini API, Strava API v3, Google Maps JavaScript API, Telemetria & Séries Temporais, Power BI.
+- **Infraestrutura, DevOps & Banco:** Vercel (Serverless Deployments), PythonAnywhere (WSGI), Git/GitHub Actions, SQLite / aiosqlite.
 
 ---
 
